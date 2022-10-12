@@ -14,3 +14,8 @@ body {
   border-radius: 5px;
   background: #eee;
 }
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
