@@ -27,3 +27,9 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
